@@ -41,7 +41,7 @@ export const Footer = () => {
             <FooterText isLargeScreen={isLargeScreen} isMobile={isMobile}>
                 <p>
                 Website created with Next.js & styled-components -- Image created with DALL-E 3 -- 
-                <StyledLink href="/">Website GitHub Repo</StyledLink>
+                <StyledLink href="https://github.com/chris-french/next_website_v2">Website GitHub Repo</StyledLink>
                 </p>
                  
             </FooterText>
