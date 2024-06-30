@@ -6,9 +6,9 @@
 
 # Summary:
 
-Full-stack developer with an emphasis on automation, and data engineering, and analytics using Python and Node. Worked in several industries -- GIS, logistics, medical insurance -- at companies like Microsoft, Esri, and C.H. Robinson. Experience with building back-end systems in the cloud (AWS, Spark, Glue) and front-end design (React/Gatsby/Next.js). Has created microservices from scratch and maintained existing systems, including Restful APIs, SQL databases, ETL jobs and tasks.
+Full-stack developer with an emphasis on automation, data engineering, and analytics using Python and Node. Worked in several industries -- GIS, logistics, medical insurance -- at companies like Microsoft, Esri, and C.H. Robinson. Experience with building back-end systems in the cloud (Azure, AWS, Spark, Glue) and front-end design (React/Gatsby/Next.js). Created and maintained microservices and pipelines.
 
-Loves to program and build systems, is understanding, always willing to listen to ideas, and enjoys working with a team of likewise individuals.
+Enjoys to program and build systems, is understanding, always willing to listen to ideas, and enjoys working with a team of likewise individuals.
 
 
 # Expertise:
@@ -17,7 +17,7 @@ Loves to program and build systems, is understanding, always willing to listen t
 
 - ● **Full Stack Developer:** Flask, FastAPI, Django, Blazer/.NET Framework, PostgreSQL, MongoDB, Redis, Elasticsearch, React, Gatsby
 
-- ● **Cloud & Automation:** AWS Lambdas,  Linux, CI/CD pipelines, Batch scripting
+- ● **Cloud & Automation:** Azure, AWS, Vault, Linux, CI/CD pipelines, Batch scripting, Kafka
 
 - ● **Machine Learning:** Foundations of statistics, data analysis using NumPy/Pandas, data visualization, ChatGPT and tools like scipy
 
@@ -27,8 +27,8 @@ Loves to program and build systems, is understanding, always willing to listen t
 
 # Primary Programming Languages:
 - ● **Scripting:** Python, Node/Typescript, Bash
-- ● **APIs:** Python, C# and .NET Framework
-- ● **Web:** Node/TypeScript, Python, CSS, JS, HTML, JSX, HTML-templating (e.g. Nunjucks, Jinja2)
+- ● **APIs:** Python, Node, C#/.NET Framework
+- ● **Web:** JS/TypeScript, Python, CSS, HTML, JSX, HTML-templating (e.g. Nunjucks, Jinja2)
 - ● **Systems:** C, modern C++ (17), C#, Rust
 - ● **Misc:** GDScript, LaTeX, OCaml, NetLogo, R
 
@@ -37,10 +37,11 @@ Loves to program and build systems, is understanding, always willing to listen t
 ## Python Developer - *C.H. Robinson (Freight Quote, Contractor), Kansas City, MO*
 **July 2023 - Current**
 
-- ● Maintained React CMS websites in React and Django
+- ● Built and designed a new company-wide CRM app for sales representatives in Typescript and FastAPI, with a PostgreSQL backend -- hosted in Azure (Backstage/Helm/Terraform)
+- ● Maintained React websites in React with Django as the backend
 - ● Maintained services running in VMs using Docker
 - ● APIs maintained and updated using FastAPI and PosgreSQL
-- ● Built new CMS websites using React
+
 
 ## Machine Learning Engineer I - *Spring Venture Group, Kansas City, MO* 
 **Feb 2022 - Mar 2023**
