@@ -15,7 +15,7 @@ Enjoys to program and build systems, is understanding, always willing to listen 
 
 - ● **Data Engineering:** Python, SQL, ETL jobs using Airflow and cron jobs in linux, cloud, and Docker environments, data mungering and processing
 
-- ● **Full Stack Developer:** Flask, FastAPI, Django, Blazer/.NET Framework, PostgreSQL, MongoDB, Redis, Elasticsearch, React, Gatsby
+- ● **Full Stack Developer:** Flask, FastAPI, Django, Blazer/.NET Framework, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, React, Gatsby
 
 - ● **Cloud & Automation:** Azure, AWS, Vault, Linux, CI/CD pipelines, Batch scripting, Kafka
 
@@ -30,7 +30,9 @@ Enjoys to program and build systems, is understanding, always willing to listen 
 - ● **APIs:** Python, Node, C#/.NET Framework
 - ● **Web:** JS/TypeScript, Python, CSS, HTML, JSX, HTML-templating (e.g. Nunjucks, Jinja2)
 - ● **Systems:** C, modern C++ (17), C#, Rust
+- ● **Game Engines:** Godot, Unreal 4/5
 - ● **Misc:** GDScript, LaTeX, OCaml, NetLogo, R
+
 
 # Professional Experience
 
