@@ -40,7 +40,7 @@ export const Footer = () => {
         <FooterContainer>
             <FooterText isLargeScreen={isLargeScreen} isMobile={isMobile}>
                 <p>
-                Sometime simple is better -- Website created with Next.js & styled-components
+                Sometimes simple is better -- Website created with Next.js & styled-components --
                 <StyledLink href="https://github.com/chris-french/next_website_v2">Website GitHub Repo</StyledLink>
                 </p>
                  
