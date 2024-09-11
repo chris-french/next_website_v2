@@ -8,7 +8,7 @@ async function ResumePage() {
   return (
     <>
       <BodyTitle>Resume</BodyTitle>
-      <MarkdownComponent url="/data/resume.md" maxHeight={'65vh'}/>
+      <MarkdownComponent url="/data/chr_resume.md" maxHeight={'65vh'}/>
     </>
     
   );
