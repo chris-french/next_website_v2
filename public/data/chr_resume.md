@@ -6,7 +6,7 @@
 
 Full-stack developer with an emphasis on automation, data engineering, and analytics using Python and Node. Worked in several industries -- GIS, logistics, medical insurance -- at companies like Microsoft, Esri, and C.H. Robinson. Experience with building back-end systems in the cloud (Azure, AWS, Spark, Glue) and front-end design (React/Gatsby/Next.js). Created and maintained microservices and pipelines.
 
-I may have done a PhD in philosophy, but I'm a programer at heart (I have been since I was in high school). I love to build tools and systems. Right now, In my spare time, I'm working on game mechanics in C++ and C#. My current project is writing a C++ module for Godot to use the [EnTT](https://github.com/skypjack/entt) entity component system for 4x/strategy games.
+I may have done a PhD in philosophy, but I'm a programer at heart (I have been since I was in high school). I love to build tools and systems. In my spare time, I work on game mechanics and game engine extensions in C++ and C#. My current project is writing a C++ module for Godot to use the [EnTT](https://github.com/skypjack/entt) entity component system for 4x/strategy games.
 
 
 ## Expertise:
