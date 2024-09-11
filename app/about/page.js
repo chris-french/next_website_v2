@@ -6,7 +6,7 @@ export default function About() {
         <>
             <BodyTitle>About</BodyTitle>
             <BodyBox>
-                Professional programmer with an emphasis on full-stack development and data engineering using Python, C++, C#, SQL, NodeJS, and React. I have multiple years of experience working in the cloud, especially Azure and AWS.
+                Professional programmer with an emphasis on full-stack development and data engineering using Python, C++, C#, SQL, NodeJS, and React.<br /><br /> I have multiple years of experience working in the cloud, especially Azure and AWS.<br /><br />I specialize in UI/UX designin React, writing backend servers in Python (FastAPI/Flask), SQL, and ETL pipelines.
             </BodyBox>
             <BodyBox>
                 I also spend time making video games, using Godot and Unreal Engine 5.<br/><br/>I'm currently working on a C++ module for Godot using the EnTT entity component system for 4x Strategy games.<br /><br />Most of my free time is spent working with Godot in C++ and GDScript, especially UI/UX design and game mechanics.
