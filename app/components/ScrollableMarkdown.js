@@ -43,8 +43,8 @@ export const ScrollableMarkdown = styled.div`
   }
 
   ul {
-    list-style: none; // Remove default list styling
-    padding-left: 1.5em; // Adjust padding as needed
+    list-style: none;
+    padding-left: 1.5em;
   }
 
   li {
