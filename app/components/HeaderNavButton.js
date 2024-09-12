@@ -10,17 +10,17 @@ const StyledHeaderButton = styled.button`
   border-radius: .25em;
   line-height: 1.5em;
   background-image: linear-gradient(0deg, #F77067 0%, black 8%);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); // Added shadow for depth
-  transition: all 0.3s ease; // Smooth transition for interaction
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
 
   &:hover, &:focus {
     background-image: linear-gradient(0deg, #DC4DC5 0%, black 20%);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); // Slightly larger shadow on hover/focus
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   }
 
   &:active {
     background-image: linear-gradient(0deg, #CC0000 0%, black 35%);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); // Smaller shadow to mimic pressing
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   }
 
   @media (max-width: 724px) {

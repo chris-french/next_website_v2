@@ -38,7 +38,7 @@ export const ScrollableMarkdown = styled.div`
   }
 
   h3 {
-    color: #181818;
+    color: #DC4DC5;
     font-weight: 700;
   }
 
