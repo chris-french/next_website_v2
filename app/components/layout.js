@@ -14,15 +14,15 @@ const ResponsiveDiv = styled.div`
   background-position: center;
 
   @media (max-width: 1024px) { 
-    padding-top: 4em; // Increase padding-top by 1em
+    padding-top: 4em;
   }
 
   @media (max-width: 724px) { 
-    padding-top: 6em; // Increase padding-top by 1em
+    padding-top: 6em;
   }
 
   @media (max-width: 480px) {
-    padding-top: 8em; // Increase padding-top by 2em
+    padding-top: 8em;
   }
 `;
 

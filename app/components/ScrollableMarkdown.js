@@ -3,38 +3,43 @@ import styled from 'styled-components';
 
 export const ScrollableMarkdown = styled.div`
   color: white;
-  background-color: rgba(30, 30, 30, 0.85); // Dark gray with opacity
+  background-color: rgba(30, 30, 30, 0.9);
   border: 1px solid #F77067;
   box-shadow: inset 0 0 0 1px black;
   padding: 2em;
   text-align: left;
   overflow-y: auto;
-  max-height: ${(props) => props.maxHeight || '80vh'}; // Use prop or default to 80vh
-  margin: 1em 0; // Optional: Adds margin to the top and bottom
+  max-height: ${(props) => props.maxHeight || '80vh'};
+  margin: 1em 0;
 
   // Styling for common HTML tags
   h1 {
-    color: #F77067; // Example: Orange color for headers
+    color: #F77067;
     margin-top: 1em;
     margin-bottom: 0.5em;
-    font-size: 1.5em; // Larger font size for headers
+    font-size: 1.5em;
   }
 
   h2 {
-    color: #F77067; // Example: Orange color for headers
+    color: #F77067;
     margin-top: 1em;
     margin-bottom: 0.5em;
-    font-size: 1.2em; // Larger font size for headers
+    font-size: 1.2em;
   }
 
   strong, em {
-    color: #F77067; // Example: Orange color for headers
+    color: #F77067;
   }
 
   p {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    line-height: 1.4; // Improved line spacing
+    line-height: 1.4;
+  }
+
+  h3 {
+    color: #181818;
+    font-weight: 700;
   }
 
   ul {
