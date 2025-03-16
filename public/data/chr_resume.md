@@ -25,7 +25,7 @@ I may have done a PhD in philosophy, but I'm a programer at heart (I have been s
 ## Professional Experience
 
 ### Business Intelligence Developer - *C.H. Robinson, Kansas City, MO*
-***August 2024 - Current***
+***August 2024 - March 2025***
 
 - Built a internal company-wide web CRM for ~500 Sales Agents, used to display customer information and query logistics data
 - CRM is built using Typescript/React and Python/FastAPI
